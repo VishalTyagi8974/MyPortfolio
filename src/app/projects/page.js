@@ -42,8 +42,7 @@ export default function ProjectsPage() {
                                                     target="_blank"
                                                     className=" btn-grad"
                                                     rel="noopener noreferrer"
-                                                    style={{ textDecoration: "none", fontSize: "0.9rem" }}
-
+                                                    style={{ textDecoration: "none", fontSize: "0.8rem" }}
 
                                                 >
                                                     Visit Website
@@ -54,7 +53,7 @@ export default function ProjectsPage() {
                                                         target="_blank"
                                                         className="btn-gradCode"
                                                         rel="noopener noreferrer"
-                                                        style={{ textDecoration: "none", fontSize: "0.9rem" }}
+                                                        style={{ textDecoration: "none", fontSize: "0.8rem" }}
                                                     >
                                                         View Code
                                                     </a>
